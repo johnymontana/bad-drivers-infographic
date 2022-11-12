@@ -10,4 +10,4 @@
 
 ![](img/loss_bar.svg)
 
-![](scatter.svg)
+![](img/scatter.svg)
