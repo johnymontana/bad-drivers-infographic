@@ -1,6 +1,8 @@
 # Bad Drivers Infographic
 
-## Images
+![](img/BadDriversInfographic.png)
+
+## Charts
 
 ![](img/fatal_map.svg)
 
